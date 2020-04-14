@@ -31,8 +31,8 @@ Results are the findings from our wrangling and modeling. They are the answers y
 
 If we look at the top 15 countries affected most in our window, we would see some interesting trends. USA and countries in Europe are most affected by Covid-19. However, China, SPAIN and Germany are the ones which has most recovered cases to date till 11th April 2020. This could be seen in the graphs below.
 
-![Top_15_Countries_(Confirmed_Cases)](Top_15_Countries_(Confirmed_Cases).png.png.PNG)
-![Top_15_Countries_(Active_Cases)](Top_15_Countries_(Active_Cases).png.PNG)
+![Top_15_Countries_(Confirmed_Cases)](Top_15_Countries_(Confirmed_Cases).png)
+![Top_15_Countries_(Active_Cases)](Top_15_Countries_(Active_Cases).png)
 ![Top_15_Countries_(Deaths_Cases)](Top_15_Countries_(Deaths_Cases).png)
 ![Top_15_Countries_(Recovered_Cases).png](Top_15_Countries_(Recovered_Cases).png)
 
