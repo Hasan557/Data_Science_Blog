@@ -22,14 +22,14 @@ Here we used Covid-19 data from 22 January 2019 to 11th April 2020 to attempt to
 This is commonly denoted as 80% of the process. From working with missing data to finding a way to work with categorical variables. Firstly, we replaced the country names to enhance readability. Secondly, we added continents for each country which would help us in the analysis of mortality rate with respect to each continent.Thirdly, we replaced the NAN values with empty spaces. There was ton more we could have done to wrangle the data, but you have to start somewhere, and then you can always iterate.
 
 ### 4. Modeling
-We were finally able to model the data, but we had some back and forth with step 3. before we were able to build a model that had okay performance. There still may be changes that could be done to improve the model we have in place. From additional feature engineering to choosing a more advanced modeling technique, we did little to test that other approaches were better within this lesson.  Since none of our questions  requires machine learning, descriptive or inferential statistics are used to create a compelling answers to all questions.
+Since none of our questions requires machine learning techniques, descriptive or inferential statistics are used to create a compelling answers to all questions.
 
 ### 5. Evaluation
-Results are the findings from our wrangling and modeling. They are the answers you found to each of the questions.
+Results are the findings from our wrangling and analysis using visualizations. These are the answers I have found to each of the questions.
 
 1. **Trends of top 15 countries affected by COVID-19 (2019–2020):**
 
-If we look at the top 15 countries affected most in our window, we would see some interesting trends. USA and countries in Europe are most affected by Covid-19. However, China, SPAIN and Germany are the ones which has most recovered cases to date till 11th April 2020. This could be seen in the graphs below.
+If we look at the top 15 countries affected most in our analysis, we would see some interesting trends. USA and countries in Europe are most affected by Covid-19. However, China, SPAIN and Germany are the ones which has most recovered cases to date till 11th April 2020. This could be seen in the graphs below.
 
 ![Top_15_Countries_(Confirmed_Cases)](Top_15_Countries_(Confirmed_Cases).png)
 ![Top_15_Countries_(Active_Cases)](Top_15_Countries_(Active_Cases).png)
@@ -38,7 +38,7 @@ If we look at the top 15 countries affected most in our window, we would see som
 
 2. **Trends comparision between different cases and analyze which country has doubling of cases:**
 
-Over the period of time, analyze which country has seen a trendline of the rise in Covid-19. It could be seen that China has the most number of confirmed cases in the 1st 7 days of the spread of the virus after which the line goes down. It can be seen that all countries are in the range of every second day and every 4 days. Compared to all, Japan has the slowest increase in the spread of the virus.
+Over the period of time, analyze which country has seen a trendline of the rise in Covid-19. It could be seen that China has the most number of confirmed cases in the 1st 7 days of the spread of the virus after which the graph shows a quadratic rise instead of a linear line. It can be seen that all countries are in the range of every second day and every 4 days. Compared to all, Japan has the slowest increase in the spread of the virus.
 
 ![Trend_Comparison_between_Countries(confirmed)](Trend_Comparison_between_Countries(confirmed).png.png.PNG)
 
