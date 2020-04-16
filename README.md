@@ -40,7 +40,7 @@ If we look at the top 15 countries affected most in our analysis, we would see s
 
 Over the period of time, analyze which country has seen a trendline of the rise in Covid-19. It could be seen that China has the most number of confirmed cases in the 1st 7 days of the spread of the virus after which the graph shows a quadratic rise instead of a linear line. It can be seen that all countries are in the range of every second day and every 4 days. Compared to all, Japan has the slowest increase in the spread of the virus.
 
-![Trend_Comparison_between_Countries(confirmed)](Trend_Comparison_between_Countries(confirmed).png.png.PNG)
+![Trend_Comparison_between_Countries(confirmed)](Trend_Comparison_between_Countries(confirmed).png)
 
 3. **Mortality rate curve for all Continents:**
 
