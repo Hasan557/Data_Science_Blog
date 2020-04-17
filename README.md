@@ -4,7 +4,7 @@
 ## Introduction
 Given the large number of industries and problems that fall under the umbrella of Data Science, there are a lot of different tools and individual nuances of a particular company or industry for finding solutions. However, there's actually a common process used to find many solutions in Data Science. This process is known as the Cross Industry Standard Process for Data Mining or CRISP-DM. This process has been an industry standard for analyzing data for years and it has six major phases provided in an image below :- 
 
-![CRISP](CRISP.png)
+![CRISP](https://github.com/Hasan557/Data_Science_Blog/blob/master/Pics/CRISP.png)
 
 
 ### 1. Business Understanding
@@ -31,22 +31,22 @@ Results are the findings from our wrangling and analysis using visualizations. T
 
 If we look at the top 15 countries affected most in our analysis, we would see some interesting trends. USA and countries in Europe are most affected by Covid-19. However, China, SPAIN and Germany are the ones which has most recovered cases to date till 11th April 2020. This could be seen in the graphs below.
 
-![Top_15_Countries_(Confirmed_Cases)](Top_15_Countries_(Confirmed_Cases).png)
-![Top_15_Countries_(Active_Cases)](Top_15_Countries_(Active_Cases).png)
-![Top_15_Countries_(Deaths_Cases)](Top_15_Countries_(Deaths_Cases).png)
-![Top_15_Countries_(Recovered_Cases).png](Top_15_Countries_(Recovered_Cases).png)
+![Top_15_Countries_(Confirmed_Cases)](https://github.com/Hasan557/Data_Science_Blog/blob/master/Pics/Top_15_Countries_(Confirmed_Cases).png)
+![Top_15_Countries_(Active_Cases)](https://github.com/Hasan557/Data_Science_Blog/blob/master/Pics/Top_15_Countries_(Active_Cases).png)
+![Top_15_Countries_(Deaths_Cases)](https://github.com/Hasan557/Data_Science_Blog/blob/master/Pics/Top_15_Countries_(Deaths_Cases).png)
+![Top_15_Countries_(Recovered_Cases).png](https://github.com/Hasan557/Data_Science_Blog/blob/master/Pics/Top_15_Countries_(Recovered_Cases).png)
 
 2. **Trends comparision between different cases and analyze which country has doubling of cases:**
 
 Over the period of time, analyze which country has seen a trendline of the rise in Covid-19. It could be seen that China has the most number of confirmed cases in the 1st 7 days of the spread of the virus after which the graph shows a quadratic rise instead of a linear line. It can be seen that all countries are in the range of every second day and every 4 days. Compared to all, Japan has the slowest increase in the spread of the virus.
 
-![Trend_Comparison_between_Countries(confirmed)](Trend_Comparison_between_Countries(confirmed).png)
+![Trend_Comparison_between_Countries(confirmed)](https://github.com/Hasan557/Data_Science_Blog/blob/master/Pics/Trend_Comparison_between_Countries(confirmed).png)
 
 3. **Mortality rate curve for all Continents:**
 
 It could be seen that Europe has the highest mortality rate and most affected by the virus i.e 8.1% of people died. Asia's death rate has the lowest variations.
 
-![Mortality_rate](Mortality_rate.png)
+![Mortality_rate](https://github.com/Hasan557/Data_Science_Blog/blob/master/Pics/Mortality%20rate.png)
 
 
 
